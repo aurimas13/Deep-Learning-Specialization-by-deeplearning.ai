@@ -1,4 +1,4 @@
-# Deep-Learning-Specialization-by_deeplearning.ai (Coursera)
+# Deep-Learning-Specialization-by-deeplearning.ai (Coursera)
 
 Programming assignments and quizzes from all the courses in the Coursera's Deep Learning Specialization - [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) given by `deeplearning.ai`.
 

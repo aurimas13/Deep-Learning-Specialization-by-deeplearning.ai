@@ -83,7 +83,7 @@ Here are the course summary as its given on the course [link](https://www.course
   - ![](Images/Others/01.jpg)
   - Image taken from [tutorialspoint.com](http://www.tutorialspoint.com/)
 - RELU stands for rectified linear unit asd is the most popular activation function right now that makes deep NNs train faster.
-- Hidden layers predicts connection between inputs automatically, thats what deep learning is good at.
+- Hidden layers predict connections between inputs automaticall. That's what deep learning is good at.
 - Deep NN consists of more hidden layers (Deeper layers)
   - ![](Images/Others/02.png)
   - Image taken from [opennn.net](http://www.opennn.net/)

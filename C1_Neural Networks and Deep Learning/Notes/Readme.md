@@ -109,7 +109,7 @@ Here are the course summary as its given on the course [link](https://www.course
        - ![](Images/11.png)
      - For small data NN can perform as Linear regression or SVM (Support vector machine)
      - For big data a small NN is better that SVM
-     - For big data a big NN is better that a medium NN is better that small NN.
+     - For big data a big NN is better that a medium NN that is better that small NN.
      - Hopefully we have a lot of data because the world is using the computer a little bit more
        - Mobiles
        - IOT (Internet of things)
